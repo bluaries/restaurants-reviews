@@ -1,0 +1,8 @@
+[submodule "restaurants-reviews-backend"]
+	path = restaurants-reviews-backend
+	url = https://github.com/kidstylex/restaurants-reviews-backend.git
+	branch = master
+[submodule "restaurants-reviews-frontend"]
+	path = restaurants-reviews-frontend
+	url = https://github.com/kidstylex/restaurants-reviews-frontend.git
+	branch = master
